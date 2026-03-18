@@ -1,0 +1,15 @@
+C:\Users\jasie\RiderProjects\APBDcw2\APBDcw2\bin\Debug\net10.0\APBDcw2.exe
+C:\Users\jasie\RiderProjects\APBDcw2\APBDcw2\bin\Debug\net10.0\APBDcw2.deps.json
+C:\Users\jasie\RiderProjects\APBDcw2\APBDcw2\bin\Debug\net10.0\APBDcw2.runtimeconfig.json
+C:\Users\jasie\RiderProjects\APBDcw2\APBDcw2\bin\Debug\net10.0\APBDcw2.dll
+C:\Users\jasie\RiderProjects\APBDcw2\APBDcw2\bin\Debug\net10.0\APBDcw2.pdb
+C:\Users\jasie\RiderProjects\APBDcw2\APBDcw2\obj\Debug\net10.0\APBDcw2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jasie\RiderProjects\APBDcw2\APBDcw2\obj\Debug\net10.0\APBDcw2.AssemblyInfoInputs.cache
+C:\Users\jasie\RiderProjects\APBDcw2\APBDcw2\obj\Debug\net10.0\APBDcw2.AssemblyInfo.cs
+C:\Users\jasie\RiderProjects\APBDcw2\APBDcw2\obj\Debug\net10.0\APBDcw2.csproj.CoreCompileInputs.cache
+C:\Users\jasie\RiderProjects\APBDcw2\APBDcw2\obj\Debug\net10.0\APBDcw2.sourcelink.json
+C:\Users\jasie\RiderProjects\APBDcw2\APBDcw2\obj\Debug\net10.0\APBDcw2.dll
+C:\Users\jasie\RiderProjects\APBDcw2\APBDcw2\obj\Debug\net10.0\refint\APBDcw2.dll
+C:\Users\jasie\RiderProjects\APBDcw2\APBDcw2\obj\Debug\net10.0\APBDcw2.pdb
+C:\Users\jasie\RiderProjects\APBDcw2\APBDcw2\obj\Debug\net10.0\APBDcw2.genruntimeconfig.cache
+C:\Users\jasie\RiderProjects\APBDcw2\APBDcw2\obj\Debug\net10.0\ref\APBDcw2.dll
