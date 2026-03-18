@@ -1,4 +1,6 @@
-﻿var x = 5;
+﻿using APBDcw2;
+
+var x = 5;
 for (var i = 0; i < x; i++)
 {
     Console.WriteLine("Hi, "+i);
@@ -12,3 +14,6 @@ static void scalarCalc(int[] x, int[] y)
         scalar += Math.Sqrt(dim^2 - dim^2);
     }
 }
+
+var Sam = new Person("Sam", 21);
+Console.WriteLine(Sam.ToString());
