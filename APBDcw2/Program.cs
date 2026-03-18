@@ -32,6 +32,18 @@ static void calculateMax(int[] arr)
         }
 }
 
+static void calculateMin(int[] arr)
+{
+    var min = 0;
+    foreach (var x in arr)
+        {
+        if (x < min)
+            {
+                min = x;
+            }
+        }
+}
+
 var Sam = new Person("Sam", 21);
 Console.WriteLine(Sam.ToString());
 var Dean = new Person("Dean", 27);
