@@ -20,6 +20,18 @@ static void calculateAverage(int[] arr)
     Console.WriteLine($"Average: {sum}");
 }
 
+static void calculateMax(int[] arr)
+{
+    var max = 0;
+    foreach (var x in arr)
+        {
+        if (x > max)
+            {
+            max = x;
+            }
+        }
+}
+
 var Sam = new Person("Sam", 21);
 Console.WriteLine(Sam.ToString());
 var Dean = new Person("Dean", 27);
