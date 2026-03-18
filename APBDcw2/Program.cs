@@ -40,6 +40,7 @@ static void calculateMin(int[] arr)
         if (x < min)
             {
                 min = x;
+                Console.WriteLine("new minimum found");
             }
         }
 }
