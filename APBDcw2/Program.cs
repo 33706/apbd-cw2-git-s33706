@@ -12,5 +12,3 @@ static void scalarCalc(int[] x, int[] y)
         scalar += Math.Sqrt(dim^2 - dim^2);
     }
 }
-
-Console.WriteLine("Hello, World!");
