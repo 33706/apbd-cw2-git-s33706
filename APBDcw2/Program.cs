@@ -2,11 +2,12 @@
 
 static void scalarCalc(int[] x, int[] y)
 {
-    double scalar = 0;
+    double someRandomVar = 0;
     foreach (var dim in x)
     {
-        scalar += Math.Sqrt(dim^2 - dim^2);
+        someRandomVar += Math.Sqrt(dim^2 - dim^2);
     }
+    //helooo
 }
 
 static void calculateAverage(int[] arr)
