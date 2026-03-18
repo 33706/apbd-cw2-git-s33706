@@ -16,4 +16,9 @@ public class Person
     {
         return $"Hi, my name is {this.name}, I'm {this.age}";
     }
+
+    public void greet(Person p2)
+    {
+        Console.WriteLine($"Hey {p2.name}, how are you doing ?");
+    }
 }

@@ -17,3 +17,5 @@ static void scalarCalc(int[] x, int[] y)
 
 var Sam = new Person("Sam", 21);
 Console.WriteLine(Sam.ToString());
+var Dean = new Person("Dean", 27);
+Sam.greet(Dean);
