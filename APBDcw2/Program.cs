@@ -15,6 +15,17 @@ static void scalarCalc(int[] x, int[] y)
     }
 }
 
+static void calculateAverage(int[] arr)
+{
+    var sum = 0;
+    foreach (var x in arr)
+    {
+        sum += x;
+    }
+    sum /= arr.Length;
+    Console.WriteLine($"Average: {sum}");
+}
+
 var Sam = new Person("Sam", 21);
 Console.WriteLine(Sam.ToString());
 var Dean = new Person("Dean", 27);
